@@ -12,7 +12,7 @@ Pomocou týchto príkazov zadaných do terminálu si naklonujete programový rep
 
 ```
 root # cd any_local_dir
-any_local_dir # git clone https://git.kpi.fei.tuke.sk/kpi-zp/2024/bp.anna.potocka/segmentacia-slovenskych-slov-program.git
+any_local_dir # git clone https://github.com/potoky/bp_segmentacia_slov.git
 ```
 
 ## Prehľad repozitára
